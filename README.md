@@ -2,9 +2,9 @@
 
 ## How to use
 
-Two options; a CLI and a plot generator
+Two options; a pure calculation and a plotting tool.
 
-### CLI
+### CLI calculation
 
 Navigate to ./src and run
 
